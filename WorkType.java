@@ -1,4 +1,4 @@
-package com.alibaba.android.arouter.demo.workmanager;
+package com.yonyou.chaoke.base.esn.workmanager;
 
 /**
  * 任务类型

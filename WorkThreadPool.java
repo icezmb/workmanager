@@ -1,4 +1,4 @@
-package com.alibaba.android.arouter.demo.workmanager;
+package com.yonyou.chaoke.base.esn.workmanager;
 
 import android.text.TextUtils;
 
@@ -10,6 +10,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class WorkThreadPool {
+
     private final long mKeepAliveTime = 3;
     private final ThreadPoolExecutor mThreadPool;
     private final ThreadFactory mThreadFactory;
